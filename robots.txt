@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rosettadigital.co.za/sitemap.xml
